@@ -1,0 +1,14 @@
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\bin\Debug\net8.0\WordleApp.exe
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\bin\Debug\net8.0\WordleApp.deps.json
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\bin\Debug\net8.0\WordleApp.runtimeconfig.json
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\bin\Debug\net8.0\WordleApp.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\bin\Debug\net8.0\WordleApp.pdb
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\WordleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\WordleApp.AssemblyInfoInputs.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\WordleApp.AssemblyInfo.cs
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\WordleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\WordleApp.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\refint\WordleApp.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\WordleApp.pdb
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\WordleApp.genruntimeconfig.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\WordleApp\WordleApp\obj\Debug\net8.0\ref\WordleApp.dll
