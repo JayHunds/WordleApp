@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,9 +20,7 @@ namespace WordleApp
             int currentAttempt = 0;
             WordSelector wordSelector = new WordSelector(wordList);
 
-
             string secretWord = wordSelector.SelectRandomWord();
-
             messanger.WelcomeUser();
             while (currentAttempt < maxAttempts)
             {
